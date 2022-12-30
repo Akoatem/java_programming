@@ -18,7 +18,7 @@ public class cylinder {
         raduis = sc.nextDouble();
 
         volume = PI * raduis * raduis * height;
-        System.out.printf("The volume is: %.2f", volume);
+        System.out.printf("The volume is: %.2f\n", volume);
 
     }
 }

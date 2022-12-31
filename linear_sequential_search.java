@@ -1,5 +1,6 @@
 /*
  write a program to search a number via linear or sequential search
+ https://www.javatpoint.com/java-continue
  */
 
 import java.util.Scanner;
